@@ -185,7 +185,6 @@ These visual diagnostics make the project both **research-worthy** and **present
 
 ## 9) Notes
 
-- This repo is structured for Kaggle-style offline execution.
 - If running locally (non-Kaggle), just point `--data-dir` to your extracted competition files.
 - Probabilities are clipped to `[0.02, 0.98]` to avoid pathological extremes.
 
